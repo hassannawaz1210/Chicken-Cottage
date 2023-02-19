@@ -1,2 +1,3 @@
-<h2>My IICT Project</h2>
-This is the proper website that i built.
+<h2>About the project:</h2>
+It is the first proper front-end that I built for my IICT project.<br>
+It contains some javascript code but is mostly static.
